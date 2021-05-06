@@ -22,6 +22,8 @@ function App() {
         <Footer />
       </div>
     </ApolloProvider>
+  );
+}
   
 
 export default App;
